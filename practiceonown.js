@@ -1,9 +1,12 @@
 console.log("hello world")
 
 const firstName = "Jake";
+
+const gender = "male"
+
 let age = 30;
 console.log(firstName, age )
-
+console.log(gender)
 
 let favSuperhero= "Spiderman"
 let favColor= "Black"
